@@ -1,6 +1,6 @@
 using System;
 using System.IO;
-public class SpaceModules {
+public class AoC {
     static void Main(string[] args) {
         string[] input = File.ReadAllLines(args[0]);
         int sum = 0;
